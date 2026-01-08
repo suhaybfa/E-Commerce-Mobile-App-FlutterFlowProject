@@ -10,7 +10,7 @@ A visually prominent banner featuring the Volkswagen vehicle front grille reinfo
 
 
 About Us (Homepage):
-A button under the intro lets users visit a dedicated “About Us” page. It explains our specialization in genuine Volkswagen brake pads only.
+A button under the intro lets users visit a dedicated “About Us” page. 
 <img width="481" height="214" alt="image" src="https://github.com/user-attachments/assets/59c990fa-199d-4ce1-91de-d43187e72b99" />
 <img width="480" height="544" alt="image" src="https://github.com/user-attachments/assets/4c7bad16-a1dd-4860-a948-f849c5a82a46" />
 
