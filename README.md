@@ -4,10 +4,20 @@ Homepage  introduces the platform’s brand identity with a strong, clear messag
 A visually prominent banner featuring the Volkswagen vehicle front grille reinforces the site’s branding, while the text block below immediately communicates the platform’s specialization and focus area to users upon landing on the site.
 <img width="384" height="533" alt="image" src="https://github.com/user-attachments/assets/d22e8cc5-38d1-4630-9e62-b577303fb1c1" />
 
+
+
+
+
+
 About Us (Homepage):
 A button under the intro lets users visit a dedicated “About Us” page. It explains our specialization in genuine Volkswagen brake pads only.
 <img width="481" height="214" alt="image" src="https://github.com/user-attachments/assets/59c990fa-199d-4ce1-91de-d43187e72b99" />
 <img width="480" height="544" alt="image" src="https://github.com/user-attachments/assets/4c7bad16-a1dd-4860-a948-f849c5a82a46" />
+
+
+
+
+
 
 Homepage – Search and Category Filter Section
  This section of the homepage showcases the integrated search functionality and product category filters.
@@ -15,6 +25,13 @@ At the top, users can easily search for specific products using the search bar.
 Below, there are visually distinct category buttons for different Volkswagen models, including Amarok, Passat, and Touareg, allowing users to filter products based on their vehicle type.
 The displayed product card under the categories section shows an example listing for Passat brake pads, while filter options for Amarok and Touareg remain fully operational, ensuring users can seamlessly explore the relevant parts for their vehicles.
 <img width="383" height="629" alt="image" src="https://github.com/user-attachments/assets/ac84d97b-0885-4051-84fd-ac73b987ac94" />
+
+
+
+
+
+
+
 
 Product Listing after “See All” Button
 This figure shows the expanded product listing that appears after users click the “See All” button on the homepage.
@@ -24,15 +41,21 @@ The design ensures that users can easily browse the full range of products witho
 
 <img width="400" height="648" alt="image" src="https://github.com/user-attachments/assets/f3857b76-ad59-485f-bd11-62b943600a77" />
 
+
+
 Product Details Page: The same thing here but with different details and with different product 
 
 <img width="463" height="646" alt="image" src="https://github.com/user-attachments/assets/f105f840-70d8-4a3d-b11a-22d73efdd03b" />
+
+
 
 Cart Page:
 
  List of selected products (Passat, Amarok, Touareg brake pads) and order summary.
  
 <img width="330" height="650" alt="image" src="https://github.com/user-attachments/assets/52c63810-ec49-46ed-84f3-44933f8ab8a1" />
+
+
 
 Payment Page Overview:
 This page allows users to select their preferred payment method (Apple Pay or Credit Card), add discount vouchers, and review their full order summary before completing the purchase.
