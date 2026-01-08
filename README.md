@@ -2,6 +2,8 @@
 
 Homepage  introduces the platform’s brand identity with a strong, clear message. It highlights “PADLINE VW” as a trusted source for genuine Volkswagen brake pads, specializing in models such as Amarok, Tiguan, and Touareg.
 A visually prominent banner featuring the Volkswagen vehicle front grille reinforces the site’s branding, while the text block below immediately communicates the platform’s specialization and focus area to users upon landing on the site.
+
+
 <img width="384" height="533" alt="image" src="https://github.com/user-attachments/assets/d22e8cc5-38d1-4630-9e62-b577303fb1c1" />
 
 
