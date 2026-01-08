@@ -88,5 +88,4 @@ A “Go Home” button is available to guide users back to the homepage, ensurin
 
 
 <a href="(https://app.flutterflow.io/share/trendify-fashion-app-template-1hick3)">
-   SHOW THE PROJECT
 </a>
