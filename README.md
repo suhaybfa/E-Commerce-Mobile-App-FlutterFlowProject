@@ -24,6 +24,7 @@ Homepage – Search and Category Filter Section
 At the top, users can easily search for specific products using the search bar.
 Below, there are visually distinct category buttons for different Volkswagen models, including Amarok, Passat, and Touareg, allowing users to filter products based on their vehicle type.
 The displayed product card under the categories section shows an example listing for Passat brake pads, while filter options for Amarok and Touareg remain fully operational, ensuring users can seamlessly explore the relevant parts for their vehicles.
+
 <img width="383" height="629" alt="image" src="https://github.com/user-attachments/assets/ac84d97b-0885-4051-84fd-ac73b987ac94" />
 
 
@@ -39,13 +40,20 @@ The page displays all available Volkswagen brake pad options, including Amarok F
 Each product card provides a clear image, product title, compatible model years, and price in SAR.
 The design ensures that users can easily browse the full range of products without needing to navigate between multiple categories, improving the shopping experience and product visibility
 
+
+
 <img width="400" height="648" alt="image" src="https://github.com/user-attachments/assets/f3857b76-ad59-485f-bd11-62b943600a77" />
+
+
 
 
 
 Product Details Page: The same thing here but with different details and with different product 
 
 <img width="463" height="646" alt="image" src="https://github.com/user-attachments/assets/f105f840-70d8-4a3d-b11a-22d73efdd03b" />
+
+
+
 
 
 
@@ -60,6 +68,7 @@ Cart Page:
 Payment Page Overview:
 This page allows users to select their preferred payment method (Apple Pay or Credit Card), add discount vouchers, and review their full order summary before completing the purchase.
 It ensures a smooth checkout process with clear total pricing, including tax and delivery charges, all shown in a simple, mobile-friendly layout
+
 
 <img width="383" height="648" alt="image" src="https://github.com/user-attachments/assets/b29bb208-6cbe-426e-bfe4-a71bfb24573f" />
 
@@ -78,7 +87,6 @@ A “Go Home” button is available to guide users back to the homepage, ensurin
 
 
 
-<a href="(https://app.flutterflow.io/share/trendify-fashion-app-template-1hick3)" target="_blank" style="text-decoration: none; color: #24292e; font-family: sans-serif; font-weight: bold;">
-   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" style="vertical-align: middle;"> 
+<a href="(https://app.flutterflow.io/share/trendify-fashion-app-template-1hick3)">
    SHOW THE PROJECT
 </a>
