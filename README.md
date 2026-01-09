@@ -61,7 +61,7 @@ Product Details Page: The same thing here but with different details and with di
 
 Cart Page:
 
- List of selected products (Passat, Amarok, Touareg brake pads) and order summary.
+ List of all selected products and order summary.
  
 <img width="330" height="650" alt="image" src="https://github.com/user-attachments/assets/52c63810-ec49-46ed-84f3-44933f8ab8a1" />
 
