@@ -82,7 +82,6 @@ A “Go Home” button is available to guide users back to the homepage, ensurin
 <img width="388" height="628" alt="image" src="https://github.com/user-attachments/assets/c68ca5b7-d3cf-44a1-9ef7-25202aa46459" />
 .
 
-Refrence: https://app.flutterflow.io/share/trendify-fashion-app-template-1hick3
 
 
 
