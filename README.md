@@ -124,5 +124,4 @@ A “Go Home” button allows users to return to the homepage after completing t
 
 <h2>Project Link</h2>
 <p>
-https://app.flutterflow.io/share/trendify-fashion-app-template-1hick3
 </p>
