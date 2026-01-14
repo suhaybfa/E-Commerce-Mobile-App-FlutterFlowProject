@@ -122,6 +122,6 @@ A “Go Home” button allows users to return to the homepage after completing t
 
 <hr/>
 
-<h2>Project Link</h2>
+<h2></h2>
 <p>
 </p>
